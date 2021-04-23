@@ -16,7 +16,7 @@
             <br />
             <br />
           <h1 class="mb-3" style="height: 64px">Sistema de Registro de Historias Clinicas</h1>
-          <h4 class="mb-3">En busca de una meojr gestio de la informacion y compartir informacion</h4>
+          <h4 class="mb-3">En busca de una mejor gestión y compartir de la informacion</h4>
           <a class="btn btn-primary" href="https://campus.uandina.edu.pe/login/index.php" role="button">Universidad Andina del Cusco</a>
         </div>
         
@@ -29,17 +29,17 @@
         <div class="col-sm-6" style="left: 0px; top: -14px; height: 92px">
           <div class="card">
             <div class="card-body">
-              <h5 class="card-title">La informacion ahora es libre1 !</h5>
-              <p class="card-text">algunos datos son necesarios, asi que podras verlos aqui y contemplar informacion necesaria</p>
-              <a href="#" class="btn btn-primary">Compartimos Informacion</a>
+              <h5 class="card-title">Consulte su historial clínico </h5>
+              <p class="card-text">Brindamos tratamiento centrado en el paciente, excelencia clínica y un nivel avanzado de atención que no está disponible en ningún otro lugar del Perú.</p>
+              <a href="#" class="btn btn-primary">Consulta tu historial</a>
             </div>
           </div>
         </div>
         <div class="col-sm-6" style="left: 0px; top: 4px; height: 81px">
           <div class="card">
             <div class="card-body">
-              <h5 class="card-title">Centros en el Perú</h5>
-              <p class="card-text">Todos los centro ya se estan registrando para unificar la informacion que es de vital importancia y aqui encontraras centro para tu atencion</p>
+              <h5 class="card-title">Distintos Centros Medicos afiliados</h5>
+              <p class="card-text">Los diferentes centros de salud se encuentran en constante implementación con el fín de unificar la información que es de vital importancia y aqui encontrará lugar para su atención</p>
               <a href="#" class="btn btn-primary">Visita algunos Centros</a>
             </div>
           </div>
@@ -50,9 +50,9 @@
         <div class="col-sm-12">
           <div class="card">
             <div class="card-body">
-              <h5 class="card-title">La informacion ahora es libre !</h5>
-              <p class="card-text">algunos datos son necesarios, asi que podras verlos aqui y contemplar informacion necesaria</p>
-              <a href="#" class="btn btn-primary">Compartimos Informacion</a>
+              <h5 class="card-title">Brindamos información transparente</h5>
+              <p class="card-text">Damos a conocer la información de forma continua y cada vez que sea posible</p>
+              <a href="#" class="btn btn-primary">Compartimos Información</a>
             </div>
           </div>
         </div>
